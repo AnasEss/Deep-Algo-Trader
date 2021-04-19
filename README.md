@@ -12,11 +12,11 @@
 
 ## About <a name = "about"></a>
 
-In this repository, we implement a highly inspired version od deep algorithmic trading from the paper "An application of deep reinforcement learning to algorithmic trading" paper. 
+In this repository, we implement a highly inspired version od deep algorithmic trading from the paper "An application of deep reinforcement learning to algorithmic trading".
 
 Also, we conduct an empirical study of deep RL trading agent Vs. Technical Indicators trading strategies.
 
-We have used the gym environment used by the authors in their repositories.
+We have used the gym environment used by the authors in their repository.
 
 
 ## References <a name = "ref"></a>
