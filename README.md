@@ -23,14 +23,15 @@ We have used the gym environment used by the authors in their repositories.
 
 [1] Théate, T.,  Ernst, D. (2021). - An application of deep reinforcement learning toalgorithmic trading(Expert Systems with Applications, 173, 114632).
 
-[2]Kaufmann,E. (INRIA Lille) ,  Valko,M. (INRIA Lille & Deepmind) - Lecture noteson reinforcement learning(Ecole Centrale de Lille).
+[2] Kaufmann,E. (INRIA Lille) ,  Valko,M. (INRIA Lille & Deepmind) - Lecture noteson reinforcement learning(Ecole Centrale de Lille).
 
-[3]Michel Fliess (LIX, INRIA Saclay - Ile de France), Cédric Join (INRIA Saclay - Ilede France, CRAN) - A mathematical proof of the existence of trends in financialtime series( arXiv:0901.1945 )
+[3] Michel Fliess (LIX, INRIA Saclay - Ile de France), Cédric Join (INRIA Saclay - Ilede France, CRAN) - A mathematical proof of the existence of trends in financialtime series( arXiv:0901.1945 )
 ## Acknowledgement
 
 We have used the gym environment used by the authors in their repositories.
 
 Here is a list of repositories that were beneficial in terms of implementing deep reinforcement learning algorithms:
 
+- https://github.com/udacity/deep-reinforcement-learning
 - https://github.com/philtabor/Youtube-Code-Repository
-- 
+- https://github.com/ThibautTheate/An-Application-of-Deep-Reinforcement-Learning-to-Algorithmic-Trading
